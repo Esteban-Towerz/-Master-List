@@ -1,6 +1,6 @@
-# Quiz :memo:
+# Master-List 🗒
 
-Simple List using Javascript 🗒 :)
+Simple List using Javascript :)
 
 <img width="1332" alt="screen shot 2017-08-11 at 10 21 17 pm" src="https://user-images.githubusercontent.com/25851867/29237428-71dfe14a-7ee3-11e7-9055-a6e7976d0c5b.png">
 
